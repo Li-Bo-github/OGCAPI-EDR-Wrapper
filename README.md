@@ -8,11 +8,11 @@ collection = get_collection_by_id("ab12cd")
 ## API Wrapper for OGC API EDR
 docs: 
 
-https://ogcapi.ogc.org/edr/
+1. https://ogcapi.ogc.org/edr/
 
-https://docs.ogc.org/is/19-086r5/19-086r5.html
+1. https://docs.ogc.org/is/19-086r5/19-086r5.html
 
-https://app.swaggerhub.com/apis/OGC/ogcapi-edr-1-example-1/1.0.1#/Capabilities/listCollections
+1. https://app.swaggerhub.com/apis/OGC/ogcapi-edr-1-example-1/1.0.1#/Capabilities/listCollections
 
 ## API provided in EDR
 
