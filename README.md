@@ -8,11 +8,6 @@ collection = get_collection_by_id("ab12cd")
 
 ## API provided in EDR
 
-<div style="width: 40%; height: 40%">
-  
-  ![image](https://user-images.githubusercontent.com/25833953/227817417-634e85dc-7f0a-4600-846d-d96c69b7b9da.png)
-  
-</div>
 
 1. https://ogcapi.ogc.org/edr/
 
