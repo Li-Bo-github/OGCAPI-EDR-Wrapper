@@ -1,12 +1,12 @@
-## ## API Wrapper for OGC API EDR
-# How to use
+# API Wrapper for OGC API EDR
+## How to use
 
 ```
 edr = EDRWrapper("http://example.org/v1.0/")
 collection = get_collection_by_id("ab12cd")
 ```
 
-# API provided in EDR
+## API provided in EDR
 
 <div style="width: 40%; height: 40%">
   
