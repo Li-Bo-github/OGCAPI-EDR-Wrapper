@@ -19,7 +19,7 @@ class EDRWrapper:
 
     def help(self):
         functions = ["get_Collection(input_collectionId: Optional, query_option: Optional)", "get_Instance(query_option: str, input_collectionId: Optional, input_instanceId: Optional)",
-                     "get_CollectionItem_byId(itemId: str)", "get_CollectionLocation_byId(locId: str)"]
+                     "get_CollectionItem_byId(itemId: str)", "get_CollectionLocation_byId(locId: str)", "set_CollectionId(collectionId: str)", "set_InstanceId(instanceId: str)"]
         print(functions)
         print("query_options: ",  self.collection_options)
 
