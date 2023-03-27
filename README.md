@@ -3,7 +3,13 @@
 
 ```
 edr = EDRWrapper("http://example.org/v1.0/")
-collection = get_collection_by_id("ab12cd")
+
+# show functions of EDRWrapper
+edr.help
+
+# example
+edr.setCollectionId("ab12cd")
+edr.getCollection()
 ```
 
 ## API provided in EDR
